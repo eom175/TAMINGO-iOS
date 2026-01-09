@@ -1,8 +1,8 @@
-# 🚀 프로젝트 이름
+# TAMINGO!
 
 ![배너 이미지 또는 로고](링크)
 
-> 간단한 한 줄 소개 – 프로젝트의 핵심 가치 또는 기능
+> 간단한 한 줄 소개 – 지금 해야돼, 지금 가야돼! TIMINGGO!
 
 [![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)]()
 [![Xcode](https://img.shields.io/badge/Xcode-16.0-blue.svg)]()
@@ -24,13 +24,13 @@
 
 ## 📱 소개
 
-> 프로젝트의 주요 목적과 사용자가 얻게 될 경험을 설명해주세요.
+> 일정은 제때 출발, 일정 직후엔 근처 to-do를 원탭으로 끝내게 해주는 당신을 위한 시간, 동선 보조앱
 
 <br>
 
 ## 📆 프로젝트 기간
-- 전체 기간: `YYYY.MM.DD - YYYY.MM.DD`
-- 개발 기간: `YYYY.MM.DD - YYYY.MM.DD`
+- 전체 기간: `2026.01.04 - 2026.02.20`
+- 개발 기간: `2026.01.09 - 2026.02.20`
 
 <br>
 
@@ -38,7 +38,7 @@
 For building and running the application you need:
 
 iOS 18.2 <br>
-Xcode 16.2 <br>
+Xcode 26.2 <br>
 Swift 6.0
 
 <br>
@@ -72,7 +72,6 @@ Swift 6.0
 
 ### Communication
 <div align="left">
-<img src="https://img.shields.io/badge/Miro-FFFC00.svg?style=for-the-badge&logo=Miro&logoColor=050038" />
 <img src="https://img.shields.io/badge/Notion-white.svg?style=for-the-badge&logo=Notion&logoColor=000000" />
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
