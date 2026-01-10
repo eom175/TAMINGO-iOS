@@ -14,12 +14,12 @@
 <br>
 
 ## 👥 멤버
+
 | 카일/엄지용 | 제이드/한정현 | 애옹/권예원 |
-|:------:|:------:|:------:|
-|        |        |        |
- 
-| PL | FE | FE |
-| [GitHub](깃허브 링크) | [GitHub](깃허브 링크) | [GitHub](깃허브 링크) |
+|:----------:|:------------:|:----------:|
+| <img src="./assets/kyle.png" width="120" alt="카일"/> | <img src="./assets/jade.png" width="120" alt="제이드"/> | <img src="./assets/aeong.png" width="120" alt="애옹"/> |
+| **PL** | **FE** | **FE** |
+| [GitHub] eom175@naver.com | [GitHub] @JungHyunHann | [GitHub] @e0ng |
 
 <br>
 
@@ -39,9 +39,9 @@
 ## 🤔 요구사항
 For building and running the application you need:
 
-iOS 18.2 <br>
+iOS 26.2 <br>
 Xcode 26.2 <br>
-Swift 6.0
+Swift 6.2.3
 
 <br>
 
@@ -80,19 +80,6 @@ Swift 6.0
 </div>
 
 <br>
-
-## 📱 화면 구성
-<table>
-  <tr>
-    <td>
-      사진 넣어주세요
-    </td>
-    <td>
-      사진 넣어주세요
-    </td>
-   
-  </tr>
-</table>
 
 ## 🔖 브랜치 컨벤션
 * `main` - 제품 출시 브랜치
