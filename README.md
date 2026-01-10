@@ -17,7 +17,7 @@
 
 | 카일/엄지용 | 제이드/한정현 | 애옹/권예원 |
 |:----------:|:------------:|:----------:|
-| <img src="./Assets/kyle.png" width="120" alt="카일"/> | <img src="./Assets/jade.png" width="120" alt="제이드"/> | <img src="./Assets/aeong.png" width="120" alt="애옹"/> |
+| <img width="120" src="https://github.com/user-attachments/assets/78e4d3c4-6927-4d0f-8cd0-c7971b85fd97" /> | <img width="120" src="https://github.com/user-attachments/assets/47c5eda6-0261-421c-8777-714e7185aed2" /> | <img width="120" src="https://github.com/user-attachments/assets/b336bf18-27d3-4bb6-bd74-215060227ce9" />|
 | **PL** | **FE** | **FE** |
 | [GitHub] eom175@naver.com | [GitHub] @JungHyunHann | [GitHub] @e0ng |
 
