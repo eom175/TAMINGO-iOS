@@ -14,11 +14,14 @@
 <br>
 
 ## 👥 멤버
-| 팀원 1 | 팀원 2 | 팀원 3 | 팀원 4 |
-|:------:|:------:|:------:|:------:|
-| 사진1 | 사진2 | 사진3 | 사진4 |
-| PL | FE | FE | FE |
-| [GitHub](깃허브 링크) | [GitHub](깃허브 링크) | [GitHub](깃허브 링크) | [GitHub](깃허브 링크) |
+| 카일/엄지용 | 제이드/한정현 | 애옹/권예원 |
+|:------:|:------:|:------:|
+|  <img width="243" height="344" alt="제목" src="https://github.com/user-attachments/assets/90e51d79-6561-47cf-8573-f219f4794570" />
+| <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/98aca59a-a72b-4a65-a9b1-eef7e59313cf" />
+ | <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/9dcd8acb-26e8-4568-8981-221b23f86f74" />
+ 
+| PL | FE | FE |
+| [GitHub](깃허브 링크) | [GitHub](깃허브 링크) | [GitHub](깃허브 링크) |
 
 <br>
 
