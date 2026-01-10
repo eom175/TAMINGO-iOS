@@ -5,8 +5,8 @@
 
 > 간단한 한 줄 소개 – 지금 해야돼, 지금 가야돼! TIMINGGO!
 
-[![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)]()
-[![Xcode](https://img.shields.io/badge/Xcode-16.0-blue.svg)]()
+[![Swift](https://img.shields.io/badge/Swift-6.2.3-orange.svg)]()
+[![Xcode](https://img.shields.io/badge/Xcode-26.2-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 
 ---
